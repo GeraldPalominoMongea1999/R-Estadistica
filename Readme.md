@@ -1,3 +1,3 @@
-#Readme 
-##Alumno : Gerald Palomino Monge
-##Codigo : 20140372B
+# Readme 
+## Alumno : Gerald Palomino Monge
+## Codigo : 20140372B
