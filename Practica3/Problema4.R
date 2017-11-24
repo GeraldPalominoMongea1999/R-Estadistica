@@ -1,3 +1,7 @@
+# Nombre : Gerald Palomino Monge 20140372B
+# Respuesta : a)b) evaluando  expresiones  c) encoteando el no NA   
+
+
 #a 
 f1<-function (x={y<- 1;2},y=0){
   x+y

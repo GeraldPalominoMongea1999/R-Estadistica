@@ -1,4 +1,7 @@
-
+# Nombre : Gerald Palomino Monge 20140372B
+# Respuesta : problema 2 a) corriendo errores de uso de  mcast  b) explcaion del resultado de NA 
+# c) prolbma al usar mcast    
+# d) explicando lo que hace la funcion 
 #a
 mtcars[1:4,]
 mtcars[mtcars$cyl<=5,]
@@ -10,7 +13,7 @@ mtcars[mtcars$cyl==4 | mtcars$cyl==6,]
 # c 
 # mtcars es de tipo data frame 
 # esta requiere de 2 entradas para un element 
-# si se introduce una netrada por defecto reotrna una columna 
+# si se introduce una netrada por defecto reotrna una columna entera 
 # dado que mtcars tiene menos de 20 se esta pidiendo un valor que no exite 
 # d 
 # reottna erro  df es una funcion por lo que no acepta el uso de "[] "

@@ -1,3 +1,6 @@
+# Nombre : Gerald Palomino Monge 20140372B
+# Respuesta : propidades la  matriz iris 
+
 # a 
 # irirs es un data frame 
 # sus dimesiones 

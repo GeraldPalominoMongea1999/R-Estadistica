@@ -1,3 +1,7 @@
+# Nombre : Gerald Palomino Monge 20140372B
+# Respuesta : caculado la expresion primero para rk dode k =1 ,2  y luego general 
+# 
+
 #a
 v<-2+3*(1:18)
 tmpFn<-function(xVec){
