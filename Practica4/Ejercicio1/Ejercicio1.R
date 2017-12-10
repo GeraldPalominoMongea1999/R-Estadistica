@@ -1,4 +1,5 @@
-
+# Nombre : Gerald Palomino Monge  20140372B
+# Respuesta1: ejecicico 1  trabaja con ddata frame  y frafica alturas 
 popular <- data.frame(m = rnorm(100, 160, 20), f = rnorm(100, 160, 20))
 prox.gen <- function(popular) {
   popular$m <- sample(popular$m)

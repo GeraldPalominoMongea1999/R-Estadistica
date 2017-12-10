@@ -1,0 +1,16 @@
+---
+title: "Problema3"
+author: "Gerald Palomino Monge"
+date: "10 de diciembre de 2017"
+output: pdf_document
+---
+
+## Problema3
+
+$X$~$poisson(\lambda)$
+$P(x).\lambda/(x+1)=\lambda^x.e^{-\lambda}/(x)!.\lambda./.(x+1)$
+$\lambda^{x}.\lambda.e^{-\lambda}/(x)!.(x+1)=\lambda^{x+1}.e^{-\lambda}/(x+1)!$
+$\lambda^{x+1}.e^{-\lambda}/(x+1)!=P(x+1)$
+ y cumple para X=0 y X=1 
+entonces  $\forall$ x $\in$ N se cumple
+$\lambda^{x+1}.e^{-\lambda}/(x+1)!=P(x+1)$

@@ -1,3 +1,6 @@
+# Nombre : Gerald Palomino Monge  20140372B
+# Respuesta3: aplica la funcion de pioson varias veces 
+
 #item a 
 p<-function(i,lambda){
   e<-2.27

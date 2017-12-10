@@ -1,3 +1,7 @@
+# Nombre : Gerald Palomino Monge  20140372B
+# Respuesta2: ejecicico 2 leee archivo , es necesario que la direccion sea escrita en la variable var 
+
+
 # importante se asume que No hay un espacios entre N y K  
 # se asume que la "cinta" de unos y ceros no estan separadas por espacio  es decir 1
 # solo hay saltos de linea
